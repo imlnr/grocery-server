@@ -4,7 +4,7 @@
             "id": 1,
             "name": "Apples",
             "qty": 5,
-            "price": 2.99,
+            "price": 240,
             "description": "Fresh red apples",
             "image": "https://www.bigbasket.com/media/uploads/p/l/40319254_1-fresho-apple-washington-regular.jpg"
         },
@@ -12,7 +12,7 @@
             "id": 2,
             "name": "Bananas",
             "qty": 10,
-            "price": 1.49,
+            "price": 50,
             "description": "Ripe yellow bananas",
             "image": "https://media.cnn.com/api/v1/images/stellar/prod/120604032828-fresh-ripe-bananas.jpg?q=w_3590,h_2774,x_0,y_0,c_fill"
         },
@@ -20,7 +20,7 @@
             "id": 3,
             "name": "Milk",
             "qty": 2,
-            "price": 3.29,
+            "price": 140,
             "description": "1 gallon of whole milk",
             "image": "https://www.heritagefoods.in/blog/wp-content/uploads/2020/12/shutterstock_539045662.jpg"
         },
@@ -28,7 +28,7 @@
             "id": 4,
             "name": "Bread",
             "qty": 1,
-            "price": 2.49,
+            "price": 120,
             "description": "Whole wheat sandwich bread",
             "image": "https://theobroma.in/cdn/shop/files/WheatBreadLoaf_45e6b874-d81e-4363-9772-1f91150a34a7.jpg?v=1710837356"
         }
