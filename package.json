@@ -4,6 +4,6 @@
     "nodemon": "^3.1.0"
   },
   "scripts": {
-    "server": "son-server --watch db.json --port 8000"
+    "server": "json-server --watch db.json --port 8000"
   }
 }
