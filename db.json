@@ -6,7 +6,7 @@
             "qty": 5,
             "price": 2.99,
             "description": "Fresh red apples",
-            "image": "https://example.com/apple.jpg"
+            "image": "https://5.imimg.com/data5/MK/GG/MY-10101453/fresh-red-apple-500x500.jpg"
         },
         {
             "id": 2,
@@ -14,7 +14,7 @@
             "qty": 3,
             "price": 1.49,
             "description": "Ripe bananas",
-            "image": "https://example.com/banana.jpg"
+            "image": "https://5.imimg.com/data5/KP/PR/MY-12396329/ripened-banana-500x500.jpg"
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "qty": 1,
             "price": 3.29,
             "description": "Organic whole milk",
-            "image": "https://example.com/milk.jpg"
+            "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/02/glass-of-milk.jpg?quality=82&strip=1"
         },
         {
             "id": 4,
@@ -30,7 +30,7 @@
             "qty": 2,
             "price": 2.49,
             "description": "Whole wheat bread",
-            "image": "https://example.com/bread.jpg"
+            "image": "https://veganyackattack.com/wp-content/uploads/2023/10/wholewheatbreakmakerloaf-6-735x559.jpg"
         },
         {
             "id": 5,
@@ -38,7 +38,7 @@
             "qty": 12,
             "price": 1.99,
             "description": "Free-range eggs",
-            "image": "https://example.com/eggs.jpg"
+            "image": "https://farmmadefoods.com/cdn/shop/products/12-eggs.png?v=1693457305"
         },
         {
             "id": 6,
@@ -46,7 +46,7 @@
             "qty": 1,
             "price": 5.99,
             "description": "Boneless chicken breast",
-            "image": "https://example.com/chicken.jpg"
+            "image": "https://static.freshtohome.com/media/catalog/product/cache/1/image/18ae109e34f485bd0b0c075abec96b2e/c/h/chicken_breast_fillet_1.jpg"
         },
         {
             "id": 7,
@@ -54,7 +54,7 @@
             "qty": 4,
             "price": 0.99,
             "description": "Roma tomatoes",
-            "image": "https://example.com/tomatoes.jpg"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/TomateTrossRomanaTyp.jpg"
         },
         {
             "id": 8,
@@ -62,7 +62,7 @@
             "qty": 1,
             "price": 1.79,
             "description": "Fresh spinach leaves",
-            "image": "https://example.com/spinach.jpg"
+            "image": "https://5.imimg.com/data5/EJ/YW/TB/SELLER-9636453/spinach-leaves-500x500.jpg"
         },
         {
             "id": 9,
@@ -70,7 +70,7 @@
             "qty": 5,
             "price": 2.29,
             "description": "Russet potatoes",
-            "image": "https://example.com/potatoes.jpg"
+            "image": "https://www.eatingwell.com/thmb/jHfCxhhVQMZJLGsXe65VJiDXGAY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/russet-potato-03c1979ab0e048e0b64f5b4fb92153d0.jpg"
         },
         {
             "id": 10,
@@ -78,7 +78,7 @@
             "qty": 3,
             "price": 1.69,
             "description": "Yellow onions",
-            "image": "https://example.com/onions.jpg"
+            "image": "https://www.bigbasket.com/media/uploads/p/l/40225175_1-fresho-onion-yellow.jpg"
         },
         {
             "id": 11,
@@ -86,7 +86,7 @@
             "qty": 1,
             "price": 4.49,
             "description": "Cheddar cheese",
-            "image": "https://example.com/cheese.jpg"
+            "image": "https://5.imimg.com/data5/PR/MR/GY/SELLER-5113762/yellow-cheddar-cheese.jpg"
         },
         {
             "id": 12,
@@ -94,7 +94,7 @@
             "qty": 2,
             "price": 3.99,
             "description": "Greek yogurt",
-            "image": "https://example.com/yogurt.jpg"
+            "image": "https://m.media-amazon.com/images/I/51gc4bxCBuL._AC_UF1000,1000_QL80_.jpg"
         },
         {
             "id": 13,
@@ -102,7 +102,7 @@
             "qty": 1,
             "price": 1.29,
             "description": "Spaghetti pasta",
-            "image": "https://example.com/pasta.jpg"
+            "image": "https://summeryule.com/wp-content/uploads/2022/10/cook-spaghetti.jpeg"
         },
         {
             "id": 14,
@@ -110,7 +110,7 @@
             "qty": 3,
             "price": 2.99,
             "description": "Long-grain white rice",
-            "image": "https://example.com/rice.jpg"
+            "image": "https://assets.epicurious.com/photos/57bdba11a5138f0d58edebf2/master/pass/foolproof-long-grain-rice.jpg"
         },
         {
             "id": 15,
@@ -118,7 +118,7 @@
             "qty": 1,
             "price": 5.49,
             "description": "Medium roast coffee beans",
-            "image": "https://example.com/coffee.jpg"
+            "image": "https://5.imimg.com/data5/SELLER/Default/2021/8/MW/LM/JP/76154918/roasted-coffee-beans-robusta-aa-quality-medium-dark-roast.jpg"
         },
         {
             "id": 16,
@@ -126,7 +126,7 @@
             "qty": 1,
             "price": 3.79,
             "description": "Green tea bags",
-            "image": "https://example.com/tea.jpg"
+            "image": "https://m.media-amazon.com/images/I/614Vy2M-YUL.jpg"
         },
         {
             "id": 17,
@@ -134,7 +134,7 @@
             "qty": 6,
             "price": 4.99,
             "description": "Juicy navel oranges",
-            "image": "https://example.com/oranges.jpg"
+            "image": "https://medilifefood.com/wp-content/uploads/2019/10/7124417.png"
         },
         {
             "id": 18,
@@ -142,7 +142,7 @@
             "qty": 2,
             "price": 0.89,
             "description": "Fresh carrots",
-            "image": "https://example.com/carrots.jpg"
+            "image": "https://5.imimg.com/data5/KQ/EC/MY-48969557/fresh-carrot.png"
         },
         {
             "id": 19,
@@ -150,7 +150,7 @@
             "qty": 1,
             "price": 8.99,
             "description": "Wild-caught salmon fillet",
-            "image": "https://example.com/salmon.jpg"
+            "image": "https://caudlescatchseafood.com/cdn/shop/files/SockeyeFilletsWatermark.jpg?v=1686246270"
         },
         {
             "id": 20,
@@ -158,7 +158,7 @@
             "qty": 1,
             "price": 1.99,
             "description": "Fresh broccoli florets",
-            "image": "https://example.com/broccoli.jpg"
+            "image": "https://befreshgroceries.com/wp-content/uploads/2021/01/Broccoli_Florets_Hero.jpg"
         }
     ]
 }
