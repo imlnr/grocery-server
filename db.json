@@ -4,33 +4,161 @@
             "id": 1,
             "name": "Apples",
             "qty": 5,
-            "price": 240,
+            "price": 2.99,
             "description": "Fresh red apples",
-            "image": "https://www.bigbasket.com/media/uploads/p/l/40319254_1-fresho-apple-washington-regular.jpg"
+            "image": "https://example.com/apple.jpg"
         },
         {
             "id": 2,
             "name": "Bananas",
-            "qty": 10,
-            "price": 50,
-            "description": "Ripe yellow bananas",
-            "image": "https://media.cnn.com/api/v1/images/stellar/prod/120604032828-fresh-ripe-bananas.jpg?q=w_3590,h_2774,x_0,y_0,c_fill"
+            "qty": 3,
+            "price": 1.49,
+            "description": "Ripe bananas",
+            "image": "https://example.com/banana.jpg"
         },
         {
             "id": 3,
             "name": "Milk",
-            "qty": 2,
-            "price": 140,
-            "description": "1 gallon of whole milk",
-            "image": "https://www.heritagefoods.in/blog/wp-content/uploads/2020/12/shutterstock_539045662.jpg"
+            "qty": 1,
+            "price": 3.29,
+            "description": "Organic whole milk",
+            "image": "https://example.com/milk.jpg"
         },
         {
             "id": 4,
             "name": "Bread",
+            "qty": 2,
+            "price": 2.49,
+            "description": "Whole wheat bread",
+            "image": "https://example.com/bread.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Eggs",
+            "qty": 12,
+            "price": 1.99,
+            "description": "Free-range eggs",
+            "image": "https://example.com/eggs.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Chicken",
             "qty": 1,
-            "price": 120,
-            "description": "Whole wheat sandwich bread",
-            "image": "https://theobroma.in/cdn/shop/files/WheatBreadLoaf_45e6b874-d81e-4363-9772-1f91150a34a7.jpg?v=1710837356"
+            "price": 5.99,
+            "description": "Boneless chicken breast",
+            "image": "https://example.com/chicken.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Tomatoes",
+            "qty": 4,
+            "price": 0.99,
+            "description": "Roma tomatoes",
+            "image": "https://example.com/tomatoes.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Spinach",
+            "qty": 1,
+            "price": 1.79,
+            "description": "Fresh spinach leaves",
+            "image": "https://example.com/spinach.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Potatoes",
+            "qty": 5,
+            "price": 2.29,
+            "description": "Russet potatoes",
+            "image": "https://example.com/potatoes.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Onions",
+            "qty": 3,
+            "price": 1.69,
+            "description": "Yellow onions",
+            "image": "https://example.com/onions.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Cheese",
+            "qty": 1,
+            "price": 4.49,
+            "description": "Cheddar cheese",
+            "image": "https://example.com/cheese.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Yogurt",
+            "qty": 2,
+            "price": 3.99,
+            "description": "Greek yogurt",
+            "image": "https://example.com/yogurt.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Pasta",
+            "qty": 1,
+            "price": 1.29,
+            "description": "Spaghetti pasta",
+            "image": "https://example.com/pasta.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Rice",
+            "qty": 3,
+            "price": 2.99,
+            "description": "Long-grain white rice",
+            "image": "https://example.com/rice.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Coffee",
+            "qty": 1,
+            "price": 5.49,
+            "description": "Medium roast coffee beans",
+            "image": "https://example.com/coffee.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Tea",
+            "qty": 1,
+            "price": 3.79,
+            "description": "Green tea bags",
+            "image": "https://example.com/tea.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Oranges",
+            "qty": 6,
+            "price": 4.99,
+            "description": "Juicy navel oranges",
+            "image": "https://example.com/oranges.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Carrots",
+            "qty": 2,
+            "price": 0.89,
+            "description": "Fresh carrots",
+            "image": "https://example.com/carrots.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Salmon",
+            "qty": 1,
+            "price": 8.99,
+            "description": "Wild-caught salmon fillet",
+            "image": "https://example.com/salmon.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Broccoli",
+            "qty": 1,
+            "price": 1.99,
+            "description": "Fresh broccoli florets",
+            "image": "https://example.com/broccoli.jpg"
         }
     ]
 }
